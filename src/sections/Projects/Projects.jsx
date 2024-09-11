@@ -1,8 +1,8 @@
 import Styles from "./ProjectStyles.module.css";
-import viberr from "../../assets/viberr.png";
-import freshBurger from "../../assets/fresh-burger.png";
-import hipsster from "../../assets/hipsster.png";
-import fitLift from "../../assets/fitlift.png";
+import exchange from "../../assets/exchangelogo.png";
+import comingSoon from "../../assets/ComingSoon.png";
+import comingSoon2 from "../../assets/ComingSoon.png";
+import comingSoon3 from "../../assets/ComingSoon.png";
 import ProjectCard from "../../common/ProjectCard";
 
 function Projects() {
@@ -11,28 +11,28 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={Styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
+          src={exchange}
           link="https://joonashilt.github.io/currency_converter/ "
-          h3="Viberr"
-          p="Streaming App"
+          h3="Currency"
+          p="Currency exchange app"
         />
         <ProjectCard
-          src={freshBurger}
-          link="https://joonashilt.github.io/currency_converter/ "
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          src={comingSoon}
+          link="https://github.com/JoonasHilt"
+          h3="Placeholder"
+          p="palceholder for project"
         />
         <ProjectCard
-          src={hipsster}
-          link="https://joonashilt.github.io/currency_converter/ "
-          h3="Hipsster"
-          p="Sunglass shop"
+          src={comingSoon2}
+          link="https://github.com/JoonasHilt"
+          h3="Placeholder"
+          p="palceholder for project"
         />
         <ProjectCard
-          src={fitLift}
-          link="https://joonashilt.github.io/currency_converter/ "
-          h3="Fitlift"
-          p="Fitness App "
+          src={comingSoon3}
+          link="https://github.com/JoonasHilt"
+          h3="Placeholder"
+          p="placeholder for project"
         />
       </div>
     </section>
