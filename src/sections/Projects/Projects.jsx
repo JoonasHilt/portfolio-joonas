@@ -19,20 +19,20 @@ function Projects() {
         <ProjectCard
           src={comingSoon}
           link="https://github.com/JoonasHilt"
-          h3="Placeholder"
-          p="palceholder for project"
+          h3="Coming Soon!"
+          p="Working on new projects!"
         />
         <ProjectCard
           src={comingSoon2}
           link="https://github.com/JoonasHilt"
-          h3="Placeholder"
-          p="palceholder for project"
+          h3="Coming Soon!"
+          p="Working on new projects!"
         />
         <ProjectCard
           src={comingSoon3}
           link="https://github.com/JoonasHilt"
-          h3="Placeholder"
-          p="placeholder for project"
+          h3="Coming Soon!"
+          p="Working on new projects!"
         />
       </div>
     </section>
