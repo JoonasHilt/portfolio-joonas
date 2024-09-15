@@ -45,15 +45,18 @@ function Hero() {
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/JoonasHilt" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/joonas-hiltunen-5a2255197/"
+            target="_blank"
+          >
             <img src={linkedinIcon} alt="linkedin icon" />
           </a>
         </span>
         <p className={styles.description}>
-          Passion for developing modern React web apps
+          Studying web development and learning to build modern react apps
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
