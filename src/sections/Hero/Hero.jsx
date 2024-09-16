@@ -2,7 +2,7 @@ import styles from "./HeroStyles.module.css";
 import heroImg from "../../assets/ProfilePic.png";
 import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
-import twitterLight from "../../assets/twitter-light.svg";
+import twitterLight from "../../assets/twitter-light.svg"; //CREDIT TO ALL ICONS GOES TO www.icons8.com
 import twitterDark from "../../assets/twitter-dark.svg";
 import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
