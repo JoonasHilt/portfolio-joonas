@@ -8,7 +8,7 @@ import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
 import linkedinLight from "../../assets/linkedin-light.svg";
 import linkedinDark from "../../assets/linkedin-dark.svg";
-import CV from "../../assets/Joonas_Hiltunen_CV-24.pdf";
+import CV from "../../assets/JoonasCV24.pdf";
 import { useTheme } from "../../common/ThemeContext";
 //figure out way to change picture when going dark mode and light mode!
 function Hero() {
